@@ -1,7 +1,7 @@
 {
-  "name": "tspl",
+  "name": "js-tspl",
   "version": "1.1.0",
-  "description": "ts generate TSPL command",
+  "description": "ts generate TSPL command, TSPL打印指令生成",
   "main": "dist/tspl",
   "files": [
     "dist"
